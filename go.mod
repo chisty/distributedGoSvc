@@ -28,6 +28,7 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.14.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
@@ -36,5 +37,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/tysonmote/gommap v0.0.2
+	google.golang.org/grpc v1.59.0
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
